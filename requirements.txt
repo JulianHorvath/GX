@@ -1,0 +1,4 @@
+spark==3.4.1
+pyspark==3.5.6
+great_expectations==1.5.7
+pytz==2022.1
